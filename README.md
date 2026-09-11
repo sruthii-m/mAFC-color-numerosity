@@ -28,10 +28,6 @@ Three models compete to explain how confidence is derived from perceptual eviden
 
 Models are fit per-subject to two datasets (Expt2: *n*=25, Expt3: *n*=15) via maximum-likelihood BADS optimization. Model-recovery analysis confirms the fitting procedure can correctly distinguish generating models.
 
-## CNN vs. Human Confidence
-
-The trained CNN achieves 100% accuracy on Expt3 stimuli, rendering softmax confidence uninformative. Pre-softmax logit margin (top − second-highest logit) provides usable variance. Across matched conditions: **r = 0.93, p = 0.002**.
-
 See `confidence_modeling/cnn_vs_human_results.json`.
 
 ## Repository Structure
