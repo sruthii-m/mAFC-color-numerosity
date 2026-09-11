@@ -147,6 +147,9 @@ def main():
     val_loss, val_acc = model.evaluate(val_ds)
     print(f"Final held-out validation accuracy: {val_acc * 100:.2f}%")
 
+    model.save(out_dir / "model.keras")
+    print(f"Saved trained model to {out_dir / 'model.keras'}")
+
     # Predictions for confusion matrix
     y_true = np.array(val_labels)
     y_pred_probs = model.predict(val_ds)

@@ -1,0 +1,75 @@
+{
+  "n_conditions": 7,
+  "softmax_confidence_saturated": true,
+  "confidence_correlation_softmax_r": NaN,
+  "confidence_correlation_softmax_p": NaN,
+  "confidence_correlation_logit_margin_r": 0.9315369032318035,
+  "confidence_correlation_logit_margin_p": 0.0022697490140169505,
+  "accuracy_correlation_r": NaN,
+  "accuracy_correlation_p": NaN,
+  "per_condition": [
+    {
+      "folder": "84-62-42",
+      "n_images": 300,
+      "cnn_accuracy": 1.0,
+      "cnn_confidence_0to1": 1.0,
+      "cnn_logit_margin": 33.079978942871094,
+      "human_accuracy": 0.8666666666666667,
+      "human_confidence_0to1": 0.5688888888888889
+    },
+    {
+      "folder": "84-62-52",
+      "n_images": 300,
+      "cnn_accuracy": 1.0,
+      "cnn_confidence_0to1": 1.0,
+      "cnn_logit_margin": 29.439315795898438,
+      "human_accuracy": 0.8266666666666667,
+      "human_confidence_0to1": 0.5388888888888889
+    },
+    {
+      "folder": "84-62-62",
+      "n_images": 300,
+      "cnn_accuracy": 1.0,
+      "cnn_confidence_0to1": 1.0,
+      "cnn_logit_margin": 22.555110931396484,
+      "human_accuracy": 0.7466666666666667,
+      "human_confidence_0to1": 0.5188888888888888
+    },
+    {
+      "folder": "84-72-52",
+      "n_images": 300,
+      "cnn_accuracy": 1.0,
+      "cnn_confidence_0to1": 1.0,
+      "cnn_logit_margin": 18.62030601501465,
+      "human_accuracy": 0.7033333333333334,
+      "human_confidence_0to1": 0.49444444444444446
+    },
+    {
+      "folder": "98-72-48",
+      "n_images": 300,
+      "cnn_accuracy": 1.0,
+      "cnn_confidence_0to1": 1.0,
+      "cnn_logit_margin": 39.49359893798828,
+      "human_accuracy": 0.87,
+      "human_confidence_0to1": 0.6344444444444445
+    },
+    {
+      "folder": "98-84-60",
+      "n_images": 300,
+      "cnn_accuracy": 1.0,
+      "cnn_confidence_0to1": 1.0,
+      "cnn_logit_margin": 22.294761657714844,
+      "human_accuracy": 0.7566666666666667,
+      "human_confidence_0to1": 0.5466666666666667
+    },
+    {
+      "folder": "98-84-72",
+      "n_images": 300,
+      "cnn_accuracy": 1.0,
+      "cnn_confidence_0to1": 1.0,
+      "cnn_logit_margin": 18.554039001464844,
+      "human_accuracy": 0.6566666666666666,
+      "human_confidence_0to1": 0.5099999999999999
+    }
+  ]
+}

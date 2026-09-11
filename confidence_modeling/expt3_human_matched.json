@@ -1,0 +1,100 @@
+[
+  {
+    "folder": "84-62-42",
+    "rgb_measured": [
+      84,
+      42,
+      62
+    ],
+    "condition_idx": 11,
+    "config_idx": 4,
+    "n_trials": 300,
+    "human_accuracy": 0.8666666666666667,
+    "human_confidence_raw_1to4": 2.7066666666666666,
+    "human_confidence_0to1": 0.5688888888888889
+  },
+  {
+    "folder": "84-62-52",
+    "rgb_measured": [
+      84,
+      52,
+      62
+    ],
+    "condition_idx": 10,
+    "config_idx": 4,
+    "n_trials": 300,
+    "human_accuracy": 0.8266666666666667,
+    "human_confidence_raw_1to4": 2.6166666666666667,
+    "human_confidence_0to1": 0.5388888888888889
+  },
+  {
+    "folder": "84-62-62",
+    "rgb_measured": [
+      84,
+      62,
+      62
+    ],
+    "condition_idx": 9,
+    "config_idx": 4,
+    "n_trials": 300,
+    "human_accuracy": 0.7466666666666667,
+    "human_confidence_raw_1to4": 2.5566666666666666,
+    "human_confidence_0to1": 0.5188888888888888
+  },
+  {
+    "folder": "84-72-52",
+    "rgb_measured": [
+      84,
+      52,
+      72
+    ],
+    "condition_idx": 7,
+    "config_idx": 4,
+    "n_trials": 300,
+    "human_accuracy": 0.7033333333333334,
+    "human_confidence_raw_1to4": 2.4833333333333334,
+    "human_confidence_0to1": 0.49444444444444446
+  },
+  {
+    "folder": "98-72-48",
+    "rgb_measured": [
+      98,
+      48,
+      72
+    ],
+    "condition_idx": 5,
+    "config_idx": 4,
+    "n_trials": 300,
+    "human_accuracy": 0.87,
+    "human_confidence_raw_1to4": 2.9033333333333333,
+    "human_confidence_0to1": 0.6344444444444445
+  },
+  {
+    "folder": "98-84-60",
+    "rgb_measured": [
+      98,
+      60,
+      84
+    ],
+    "condition_idx": 1,
+    "config_idx": 4,
+    "n_trials": 300,
+    "human_accuracy": 0.7566666666666667,
+    "human_confidence_raw_1to4": 2.64,
+    "human_confidence_0to1": 0.5466666666666667
+  },
+  {
+    "folder": "98-84-72",
+    "rgb_measured": [
+      98,
+      72,
+      84
+    ],
+    "condition_idx": 0,
+    "config_idx": 4,
+    "n_trials": 300,
+    "human_accuracy": 0.6566666666666666,
+    "human_confidence_raw_1to4": 2.53,
+    "human_confidence_0to1": 0.5099999999999999
+  }
+]

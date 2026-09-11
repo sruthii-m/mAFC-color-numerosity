@@ -3,4 +3,3 @@ __pycache__/
 *.pyc
 train_log.txt
 *.mat
-results/
